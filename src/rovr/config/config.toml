@@ -44,6 +44,12 @@ surface = "#284149"
 panel = "#657B83"
 is_dark = true
 
+[[custom_theme]]
+name = "Dark Pink"
+primary = "#36004A"
+secondary = "#FD7AFF"
+is_dark = true
+
 [keybinds]
 toggle_pin = ["P"]
 toggle_pinned_sidebar = ["S"]
