@@ -54,7 +54,7 @@ error = "#300025"
 accent = "#000000"
 foreground = "#FFFFFF"
 background = "#000000"
-surface = "#FFFFFF"
+surface = "#2b2b2b"
 panel = "#2b2b2b"
 is_dark = true
 
