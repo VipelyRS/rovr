@@ -47,7 +47,7 @@ is_dark = true
 [[custom_theme]]
 name = "Dark Pink"
 primary = "#FD7AFF"
-secondary = "#FFFFFF"
+secondary = "#000F85"
 success = "#FF007B"
 warning = "#250069"
 error = "#300025"
