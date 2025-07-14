@@ -48,7 +48,14 @@ is_dark = true
 name = "Dark Pink"
 primary = "#36004A"
 secondary = "#FD7AFF"
+success = "#FF007B"
+warning = "#250069"
+error = "#300025"
 accent = "#000000"
+foreground = "#FFFFFF"
+background = "#FFFFFF"
+surface = "#FFFFFF"
+panel = "#FFFFFF"
 is_dark = true
 
 [keybinds]
