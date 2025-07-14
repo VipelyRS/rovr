@@ -48,6 +48,7 @@ is_dark = true
 name = "Dark Pink"
 primary = "#36004A"
 secondary = "#FD7AFF"
+accent = "#000000"
 is_dark = true
 
 [keybinds]
